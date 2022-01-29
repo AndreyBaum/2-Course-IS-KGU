@@ -14,7 +14,6 @@ for i in  range(0,(len(s1)-len(sm))):
     n+=1
 print('Введен ключ: ', sm)
 print('Ключ имеет',len(sm), 'символов')
-
 for i in range(len(s1)):
     so.append(sm[nn])
     nn+=1
